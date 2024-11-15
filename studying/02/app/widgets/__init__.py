@@ -1,0 +1,1 @@
+# usando apenas para deixar claro que a pasta "widgets" é um módulo Python
